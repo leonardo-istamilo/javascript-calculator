@@ -1,16 +1,16 @@
 {
-  "name": "react-redux-calculator",
+  "name": "javascript-calculator-react-redux",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-redux": "^8.0.0",
-    "redux": "^4.2.0"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-redux": "^9.2.0",
+    "redux": "^5.0.1"  
   },
   "scripts": {
-    "start": "parcel ./public/index.html",
-    "build": "parcel build ./public/index.html --dist-dir build"
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html --dist-dir build"
   },
   "devDependencies": {
     "parcel": "^2.15.4"

@@ -3,7 +3,7 @@
 body {
   margin: 0;
   height: 100vh;
-  background: linear-gradient(to bottom right, #CFD8DC, #B0BEC5);
+  background: linear-gradient(to bottom right, #1e97ca, #B0BEC5);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -11,7 +11,7 @@ body {
 }
 
 .calculator {
-  background: #212121;
+  background: #696969;
   padding: 1.2rem;
   border-radius: 16px;
   box-shadow: 0 8px 25px rgba(0,0,0,0.5), 0 0 15px rgba(0,0,0,0.2);
