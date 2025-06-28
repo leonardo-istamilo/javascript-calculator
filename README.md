@@ -17,7 +17,7 @@ Para colocar a calculadora em funcionamento na sua máquina, siga estes passos:
 2.  **Clone ou Baixe o Repositório:**
     Se você estiver usando Git, clone o repositório:
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone <https://github.com/leonardo-istamilo/javascript-calculator.git>
     cd javascript-calculator
     ```
     Caso contrário, baixe o ZIP do projeto e descompacte na sua pasta preferida. Em seguida, navegue até a pasta raiz do projeto (`javascript-calculator`) no seu terminal.
