@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "parcel ./index.html",
-    "build": "parcel build ./index.html --dist-dir docs"
+    "build": "parcel build ./index.html --dist-dir docs --public-url /javascript-calculator/" 
   },
   "devDependencies": {
     "parcel": "^2.15.4"
