@@ -9,8 +9,8 @@
     "redux": "^5.0.1"  
   },
   "scripts": {
-    "start": "parcel ./src/index.html",
-    "build": "parcel build ./src/index.html --dist-dir build"
+    "start": "parcel ./index.html",
+    "build": "parcel build ./index.html --dist-dir build"
   },
   "devDependencies": {
     "parcel": "^2.15.4"
